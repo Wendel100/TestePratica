@@ -1,0 +1,14 @@
+C:\Users\darkr\Desktop\TestePratica\bin\Debug\net9.0\TestePratica.exe
+C:\Users\darkr\Desktop\TestePratica\bin\Debug\net9.0\TestePratica.deps.json
+C:\Users\darkr\Desktop\TestePratica\bin\Debug\net9.0\TestePratica.runtimeconfig.json
+C:\Users\darkr\Desktop\TestePratica\bin\Debug\net9.0\TestePratica.dll
+C:\Users\darkr\Desktop\TestePratica\bin\Debug\net9.0\TestePratica.pdb
+C:\Users\darkr\Desktop\TestePratica\obj\Debug\net9.0\TestePratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkr\Desktop\TestePratica\obj\Debug\net9.0\TestePratica.AssemblyInfoInputs.cache
+C:\Users\darkr\Desktop\TestePratica\obj\Debug\net9.0\TestePratica.AssemblyInfo.cs
+C:\Users\darkr\Desktop\TestePratica\obj\Debug\net9.0\TestePratica.csproj.CoreCompileInputs.cache
+C:\Users\darkr\Desktop\TestePratica\obj\Debug\net9.0\TestePratica.dll
+C:\Users\darkr\Desktop\TestePratica\obj\Debug\net9.0\refint\TestePratica.dll
+C:\Users\darkr\Desktop\TestePratica\obj\Debug\net9.0\TestePratica.pdb
+C:\Users\darkr\Desktop\TestePratica\obj\Debug\net9.0\TestePratica.genruntimeconfig.cache
+C:\Users\darkr\Desktop\TestePratica\obj\Debug\net9.0\ref\TestePratica.dll
